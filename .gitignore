@@ -1,5 +1,8 @@
 ## Git Ignore File
 
+# MacOS
+.DS_Store
+
 # Logs
 logs
 *.log
